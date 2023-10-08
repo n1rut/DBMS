@@ -1,0 +1,13 @@
+Set: {zxc}
+Set: {123}
+Stack: {qwe}
+Stack: {zxc}
+Stack: {xcv}
+Stack: {cvb}
+Queue: {qwe}
+Queue: {zxc}
+Queue: {xcv}
+Queue: {1111}
+HashTable: {1:qwe:1}
+HashTable: {2:zxc:2}
+HashTable: {3:pop:0}

@@ -1,0 +1,17 @@
+Set: {qweqweqw}
+Set: {qwsfdsdf}
+Set: {spdfpsdf}
+Queue: {sdkhjfhgsdkjhfkjsd}
+Queue: {sdlmkfnjlsdknflkmnsdfsd}
+Stack: {qwe2}
+Stack: {qwe3}
+Stack: {qwe4}
+Stack: {qwe5}
+12:1000
+1012:111111
+12:qwe:99
+1012:qweqweqwe:196
+12:102030203:2
+133:123123pop:151
+HashTable: {111:qqqqqq:147}
+HashTable: {1111:123123123:196}
